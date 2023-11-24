@@ -83,7 +83,7 @@ body {
 
 
 
-.next_photo{
+/* .next_photo{
     width: 98vw;
     height: 91vh;
     background: url(./img/homem.jpeg) center center/cover;
@@ -92,7 +92,8 @@ body {
     color: white;
     box-shadow: 0 2px 10px 0 rgba(136,136, 136, 0.77);
     display: none;
-}
+
+} */
 
 .icons{
     display: flex;
@@ -157,6 +158,11 @@ body {
 
     .icons {
         margin-right: 20;
+    }
+
+    .next_photo{
+        width: 367px;
+        height: 684px;
     }
 
     }
